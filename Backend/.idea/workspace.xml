@@ -5,25 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9fa1c17a-02a8-488b-9ee4-9c7dd7e0d872" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/heart/Heart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/heart/HeartRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/heart/HeartService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/member/MemberCreateForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/place/Place.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/errors.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/messages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/messages_en.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/error/4xx.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/swacademy/wbbackend/MessageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/member/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/member/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/web/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/web/security/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/web/servlet/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/web/servlet/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/a26ed3ba-83c1-499b-ae6f-ed7d4f1f2f9e_스크린샷 2023-02-27 오후 8.21.15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swacademy/wbbackend/WbbackendApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swacademy/wbbackend/WbbackendApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swacademy/wbbackend/domain/member/MemberServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swacademy/wbbackend/domain/member/MemberServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swacademy/wbbackend/domain/review/ReviewServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swacademy/wbbackend/domain/review/ReviewServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/WbbackendApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basicprojectlab/wbbackend/BPLbackendApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/heart/Heart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basicprojectlab/wbbackend/domain/heart/Heart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/heart/HeartRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basicprojectlab/wbbackend/domain/heart/HeartRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/heart/HeartService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basicprojectlab/wbbackend/domain/heart/HeartService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/member/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basicprojectlab/wbbackend/domain/member/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/member/MemberCreateForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basicprojectlab/wbbackend/domain/member/MemberCreateForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/member/MemberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basicprojectlab/wbbackend/domain/member/MemberRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/member/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basicprojectlab/wbbackend/domain/member/MemberService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/member/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basicprojectlab/wbbackend/domain/member/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/place/Place.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basicprojectlab/wbbackend/domain/place/Place.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/review/Review.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basicprojectlab/wbbackend/domain/review/Review.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/review/ReviewRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basicprojectlab/wbbackend/domain/review/ReviewRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/review/ReviewService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basicprojectlab/wbbackend/domain/review/ReviewService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/seat/Seat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basicprojectlab/wbbackend/domain/seat/Seat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/seat/SeatRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basicprojectlab/wbbackend/domain/seat/SeatRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/seat/SeatService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basicprojectlab/wbbackend/domain/seat/SeatService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/web/security/JwtAuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basicprojectlab/wbbackend/domain/web/security/JwtAuthenticationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/web/security/JwtRefreshToken/JwtRefreshToken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basicprojectlab/wbbackend/domain/web/security/JwtRefreshToken/JwtRefreshToken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/web/security/JwtRefreshToken/JwtRefreshTokenRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basicprojectlab/wbbackend/domain/web/security/JwtRefreshToken/JwtRefreshTokenRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/web/security/JwtTokenProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basicprojectlab/wbbackend/domain/web/security/JwtTokenProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/web/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basicprojectlab/wbbackend/domain/web/security/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/web/servlet/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basicprojectlab/wbbackend/domain/web/servlet/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/web/servlet/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basicprojectlab/wbbackend/domain/web/servlet/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/swacademy/wbbackend/MessageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/basicprojectlab/wbbackend/MessageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/swacademy/wbbackend/WbbackendApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/basicprojectlab/wbbackend/WbbackendApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/swacademy/wbbackend/domain/member/MemberServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/basicprojectlab/wbbackend/domain/member/MemberServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/swacademy/wbbackend/domain/review/ReviewServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/basicprojectlab/wbbackend/domain/review/ReviewServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/swacademy/wbbackend/domain/seat/SeatServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/basicprojectlab/wbbackend/domain/seat/SeatServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +97,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -131,7 +142,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.WbbackendApplication (1)">
+  <component name="RunManager" selected="Spring Boot.BPLbackendApplication">
     <configuration name="wbbackend [bootJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -237,16 +248,9 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="WbbackendApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <configuration name="BPLbackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="swacademy.wbbackend.main" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="swacademy.wbbackend.WbbackendApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WbbackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="wbbackend.main" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="swacademy.wbbackend.WbbackendApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="basicprojectlab.wbbackend.BPLbackendApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -359,6 +363,7 @@
       <workItem from="1683798053564" duration="694000" />
       <workItem from="1683800584973" duration="92000" />
       <workItem from="1683800692972" duration="534000" />
+      <workItem from="1683854324222" duration="144000" />
     </task>
     <servers />
   </component>
