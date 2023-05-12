@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9fa1c17a-02a8-488b-9ee4-9c7dd7e0d872" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/heart/Heart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/heart/HeartRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/heart/HeartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/member/MemberCreateForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/place/Place.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/errors.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/messages_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/error/4xx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/swacademy/wbbackend/MessageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/member/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/member/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/web/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/web/security/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/web/servlet/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swacademy/wbbackend/domain/web/servlet/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/a26ed3ba-83c1-499b-ae6f-ed7d4f1f2f9e_스크린샷 2023-02-27 오후 8.21.15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/swacademy/wbbackend/WbbackendApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swacademy/wbbackend/WbbackendApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/swacademy/wbbackend/domain/member/MemberServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swacademy/wbbackend/domain/member/MemberServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/swacademy/wbbackend/domain/review/ReviewServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swacademy/wbbackend/domain/review/ReviewServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="wbbackend" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="wbbackend" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="wbbackend" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="wbbackend" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="wbbackend" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="verification" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2M7RRKAtZwJPZYxqR6C83yrtQ2C" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ilmo/Desktop/wbbackend/build.gradle&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;c7aac4d15e4d923e04dc8a7b077595f2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="swacademy.wbbackend.domain.member" />
+      <recent name="swacademy.wbbackend.domain.review" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.WbbackendApplication (1)">
+    <configuration name="wbbackend [bootJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="wbbackend [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="wbbackend [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="wbbackend [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="wbbackend [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="WbbackendApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="swacademy.wbbackend.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="swacademy.wbbackend.WbbackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WbbackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="wbbackend.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="swacademy.wbbackend.WbbackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.wbbackend [clean]" />
+        <item itemvalue="Gradle.wbbackend [bootJar]" />
+        <item itemvalue="Gradle.wbbackend [jar]" />
+        <item itemvalue="Gradle.wbbackend [build]" />
+        <item itemvalue="Gradle.wbbackend [test]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fa1c17a-02a8-488b-9ee4-9c7dd7e0d872" name="Changes" comment="" />
+      <created>1677116625524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677116625524</updated>
+      <workItem from="1677116627755" duration="565000" />
+      <workItem from="1677117246459" duration="2686000" />
+      <workItem from="1677152557234" duration="11000" />
+      <workItem from="1677165812974" duration="102000" />
+      <workItem from="1677195800083" duration="22000" />
+      <workItem from="1677224340788" duration="137000" />
+      <workItem from="1677270630848" duration="58000" />
+      <workItem from="1677481747414" duration="5520000" />
+      <workItem from="1677495626089" duration="443000" />
+      <workItem from="1677499560677" duration="1159000" />
+      <workItem from="1677559703388" duration="598000" />
+      <workItem from="1677572310697" duration="75000" />
+      <workItem from="1677573977174" duration="18000" />
+      <workItem from="1677574003981" duration="238000" />
+      <workItem from="1677574254028" duration="1268000" />
+      <workItem from="1677719212484" duration="307000" />
+      <workItem from="1677736989276" duration="1064000" />
+      <workItem from="1677740437295" duration="13193000" />
+      <workItem from="1677764783258" duration="383000" />
+      <workItem from="1677845436455" duration="2511000" />
+      <workItem from="1677897593787" duration="599000" />
+      <workItem from="1677909224051" duration="1000" />
+      <workItem from="1677935960415" duration="311000" />
+      <workItem from="1677936292310" duration="15000" />
+      <workItem from="1677938573165" duration="56000" />
+      <workItem from="1677989451977" duration="25000" />
+      <workItem from="1678062826176" duration="578000" />
+      <workItem from="1678157621272" duration="1198000" />
+      <workItem from="1678171612973" duration="957000" />
+      <workItem from="1678178549268" duration="211000" />
+      <workItem from="1678179490624" duration="134000" />
+      <workItem from="1678179650847" duration="355000" />
+      <workItem from="1678181398392" duration="21000" />
+      <workItem from="1678228564692" duration="599000" />
+      <workItem from="1678230418083" duration="34000" />
+      <workItem from="1678230699234" duration="117000" />
+      <workItem from="1678230827712" duration="301000" />
+      <workItem from="1678231137957" duration="2000" />
+      <workItem from="1678255400473" duration="45000" />
+      <workItem from="1678278805644" duration="14000" />
+      <workItem from="1678279220731" duration="11000" />
+      <workItem from="1678279275863" duration="34000" />
+      <workItem from="1678279658543" duration="11000" />
+      <workItem from="1678280496684" duration="309000" />
+      <workItem from="1678280813599" duration="1000" />
+      <workItem from="1678281971123" duration="49000" />
+      <workItem from="1678282028832" duration="2000" />
+      <workItem from="1678282038952" duration="23000" />
+      <workItem from="1678282116600" duration="79000" />
+      <workItem from="1678325833887" duration="119000" />
+      <workItem from="1678340763712" duration="11000" />
+      <workItem from="1678370796490" duration="30000" />
+      <workItem from="1678370922762" duration="39000" />
+      <workItem from="1678371030312" duration="3000" />
+      <workItem from="1678371041397" duration="84000" />
+      <workItem from="1678428957066" duration="4000" />
+      <workItem from="1678432646543" duration="4000" />
+      <workItem from="1678433823596" duration="69000" />
+      <workItem from="1678498749323" duration="13000" />
+      <workItem from="1678543894629" duration="11000" />
+      <workItem from="1678545043701" duration="1200000" />
+      <workItem from="1678630962846" duration="706000" />
+      <workItem from="1678634153064" duration="20000" />
+      <workItem from="1678634180983" duration="2000" />
+      <workItem from="1678634641441" duration="2561000" />
+      <workItem from="1678661489594" duration="637000" />
+      <workItem from="1678663381208" duration="18000" />
+      <workItem from="1678698171355" duration="617000" />
+      <workItem from="1678710458098" duration="26000" />
+      <workItem from="1678936861905" duration="1321000" />
+      <workItem from="1679015654652" duration="470000" />
+      <workItem from="1679027119180" duration="1553000" />
+      <workItem from="1679066956608" duration="889000" />
+      <workItem from="1679408632877" duration="1287000" />
+      <workItem from="1679486975330" duration="1007000" />
+      <workItem from="1679556564118" duration="11000" />
+      <workItem from="1679738704721" duration="312000" />
+      <workItem from="1679990173387" duration="16000" />
+      <workItem from="1680507821567" duration="960000" />
+      <workItem from="1680508962511" duration="3000" />
+      <workItem from="1683604307003" duration="104000" />
+      <workItem from="1683604414874" duration="861000" />
+      <workItem from="1683612635661" duration="87000" />
+      <workItem from="1683784946031" duration="684000" />
+      <workItem from="1683790141739" duration="91000" />
+      <workItem from="1683796385912" duration="50000" />
+      <workItem from="1683796652975" duration="176000" />
+      <workItem from="1683798053564" duration="694000" />
+      <workItem from="1683800584973" duration="92000" />
+      <workItem from="1683800692972" duration="534000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
